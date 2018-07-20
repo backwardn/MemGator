@@ -94,8 +94,8 @@
   {
     "id": "perma",
     "name": "Perma Archive",
-    "timemap": "http://perma-archives.org/warc/timemap/*/",
-    "timegate": "http://perma-archives.org/warc/timegate/",
+    "timemap": "https://perma-archives.org/warc/timemap/*/",
+    "timegate": "https://perma-archives.org/warc/timegate/",
     "probability": 0.1
   },
   {
